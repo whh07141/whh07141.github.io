@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Honghong Wang"
-  avatar           : "images/favicon-32x32.png"
+  avatar           : "images/favicon-16x16.png"
   bio              : "Communication University of China"
   location         : "Beijing, China"
   employer         :
