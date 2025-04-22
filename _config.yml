@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Honghong Wang"
+title                    : "Honghong"
 description              : " Key Laboratory of Media Audio and Video of the Ministry of Education at Communication University of China & Fosafer Technology.I have published several papers in ICASSP and ISCSLP.I won the top prize in MEIJU2025 and IERP2024 multimodal emotion recognition competitions. "
 repository               : "https://github.com/whh07141/whh07141.github.io"
 google_scholar_stats_use_cdn : true
