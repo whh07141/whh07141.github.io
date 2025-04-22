@@ -18,11 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello everyone, my name is Honghong Wang. I obtained my master's degree from the Key Laboratory of Media Audio and Video of the Ministry of Education at Communication University of China. I am currently working as a speech algorithm researcher at Fosafer Information. 
+
 My research interests include speech emotion recognition, multimodal emotion recognition, speech classification and speech synthesis. I have published many papers in conferences such as ICASSP and ISCSLP, and have also won leading positions in international emotion recognition competitions such as MEIJU2025 and IERP2024.
 
 # 🔥 Milestones
-- *2024.12*: &nbsp;🎉🎉 1 paper accept by the ICASSP2025. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.1*: &nbsp;🎉🎉 1 paper accept by the ICASSP2025. 
+- *2024.10*: &nbsp;🎉🎉 Ranked second place in Track2 Mandarin of MEIJU Challenge.
+- *2024.6*: &nbsp;🎉🎉 1 paper accept by the ISCSLP2024.
+- *2024.5*: &nbsp;🎉🎉 Ranked first place in IERP Challenge.
 
 # 📝 Publications 
 
