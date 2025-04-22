@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Honghong"
+title                    : "Honghong Wang"
 description              : " Key Laboratory of Media Audio and Video of the Ministry of Education at Communication University of China & Fosafer Technology. "
 repository               : "https://github.com/whh07141/whh07141.github.io"
 google_scholar_stats_use_cdn : true
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/whh07141"
   google_plus      :
   keybase          :
   instagram        :
