@@ -22,6 +22,7 @@ Hello everyone, my name is Honghong Wang. I obtained my master's degree from the
 My research interests include speech emotion recognition, multimodal emotion recognition, speech classification and speech synthesis. I have published many papers in conferences such as ICASSP and ISCSLP, and have also won leading positions in international emotion recognition competitions such as MEIJU2025 and IERP2024.
 
 # 🔥 Milestones
+- *2025.4*: &nbsp;🎉🎉 1 paper submitted by the Interspeech2025. 
 - *2025.1*: &nbsp;🎉🎉 1 paper accept by the ICASSP2025. 
 - *2024.10*: &nbsp;🎉🎉 Ranked second place in Track2 Mandarin of MEIJU Challenge.
 - *2024.6*: &nbsp;🎉🎉 1 paper accept by the ISCSLP2024.
@@ -29,12 +30,12 @@ My research interests include speech emotion recognition, multimodal emotion rec
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/model_sum.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Mitigating Category Imbalance: Fosafer System for the Multimodal Emotion and Intent Joint Understanding Challenge]([https://ieeexplore.ieee.org/abstract/document/10889948])
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Honghong Wang**, Yankai Wang, Dejun Zhang, Jing Deng, Rong Zheng
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
