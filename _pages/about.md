@@ -40,19 +40,20 @@ My research interests include speech emotion recognition, multimodal emotion rec
 </div>
 </div>
 
-- Speech Emotion Recognition using Fine-Tuned DWFormer: A Study on Track 1 of the IERP Challenge 2024]([https://github.com](https://ieeexplore.ieee.org/document/10800612)), **Honghong Wang**, Xupeng Jia, Jing Deng, Rong Zheng **ISCSLP 2024**
+- Speech Emotion Recognition using Fine-Tuned DWFormer: A Study on Track 1 of the IERP Challenge 2024]([https://ieeexplore.ieee.org/document/10800612]), **Honghong Wang**, Xupeng Jia, Jing Deng, Rong Zheng **ISCSLP 2024**
 
 # 🎖 Honors and Awards
-- *2024.10* **second** place in Track2 Mandarin of MEIJU Challenge. 
-- *2024.05*  **first** place in IERP Challenge. 
+- *2024.10*: **second** place in Track2 Mandarin of MEIJU Challenge. 
+- *2024.05*: **first** place in IERP Challenge. 
 
 # 📖 Educations
 - *2020.09 - 2023.06*, master, the Key Laboratory of Media Audio and Video of the Ministry of Education, Communication University of China. 
 - *2016.09 - 2020.06*, Undergraduate, Beijing Institute Of Graphic Communication. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.04*, ICASSP 2025 Oral. \| [\[video\]](https://client.conflux.events/app/events/45/schedule/5617/presentations/54030/)
+- *2024.11*, ISCSLP 2024 Oral
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.07 - now*, Fosafer, China.
+- *2022.05 - 2023.01*, REALAI, China.
