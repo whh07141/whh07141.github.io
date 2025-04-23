@@ -40,7 +40,7 @@ My research interests include speech emotion recognition, multimodal emotion rec
 </div>
 </div>
 
-- Speech Emotion Recognition using Fine-Tuned DWFormer: A Study on Track 1 of the IERP Challenge 2024]([https://ieeexplore.ieee.org/document/10800612]), **Honghong Wang**, Xupeng Jia, Jing Deng, Rong Zheng **ISCSLP 2024**
+[Speech Emotion Recognition using Fine-Tuned DWFormer: A Study on Track 1 of the IERP Challenge 2024]([https://ieeexplore.ieee.org/document/10800612]), **Honghong Wang**, Xupeng Jia, Jing Deng, Rong Zheng **ISCSLP 2024**
 
 # 🎖 Honors and Awards
 - *2024.10*: **second** place in Track2 Mandarin of MEIJU Challenge. 
