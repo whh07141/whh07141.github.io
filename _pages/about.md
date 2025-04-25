@@ -49,7 +49,7 @@ My research interests lie in speech emotion recognition, multimodal emotion reco
 - *2024.05*: **first** place in IERP Challenge. 
 
 # 📖 Educations
-- *2020.09 - 2023.06*, master, the Key Laboratory of Media Audio and Video of the Ministry of Education, Communication University of China. 
+- *2020.09 - 2023.06*, Master, the Key Laboratory of Media Audio and Video of the Ministry of Education, Communication University of China. 
 - *2016.09 - 2020.06*, Undergraduate, Beijing Institute Of Graphic Communication. 
 
 # 💬 Invited Talks
