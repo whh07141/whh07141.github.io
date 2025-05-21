@@ -22,10 +22,10 @@ Hello everyone, my name is Honghong Wang. I hold a Master’s degree from the Ke
 My research interests lie in speech emotion recognition, multimodal emotion recognition, speech classification, and speech synthesis. I have authored several papers presented at leading conferences such as ICASSP and ISCSLP, and have achieved top rankings in international emotion recognition competitions, including MEIJU2025 and IERP2024.
 
 # 🔥 Milestones
-- *2025.4*: &nbsp;🎉🎉 1 paper submitted by the **Interspeech2025**. 
-- *2025.1*: &nbsp;🎉🎉 1 paper accept by the **ICASSP2025**. 
+- *2025.5*: &nbsp;🎉🎉 1 paper is accepted by the **Interspeech2025**. 
+- *2025.1*: &nbsp;🎉🎉 1 paper is accepted by the **ICASSP2025**. 
 - *2024.10*: &nbsp;🎉🎉 Ranked **second** place in Track2 Mandarin of MEIJU Challenge.
-- *2024.6*: &nbsp;🎉🎉 1 paper accept by the **ISCSLP2024**.
+- *2024.6*: &nbsp;🎉🎉 1 paper is accepted by the **ISCSLP2024**.
 - *2024.5*: &nbsp;🎉🎉 Ranked **first** place in IERP Challenge.
 
 # 📝 Publications 
