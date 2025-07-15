@@ -33,14 +33,14 @@ My research interests lie in speech emotion recognition, multimodal emotion reco
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ICASSP-2025-PPT-Template.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mitigating Category Imbalance: Fosafer System for the Multimodal Emotion and Intent Joint Understanding Challenge]([https://ieeexplore.ieee.org/abstract/document/10889948])
+[Mitigating Category Imbalance: Fosafer System for the Multimodal Emotion and Intent Joint Understanding Challenge](https://ieeexplore.ieee.org/abstract/document/10889948)
 
 **Honghong Wang**, Yankai Wang, Dejun Zhang, Jing Deng, Rong Zheng **ICASSP 2025**
  
 </div>
 </div>
 
-[Speech Emotion Recognition using Fine-Tuned DWFormer: A Study on Track 1 of the IERP Challenge 2024]([https://ieeexplore.ieee.org/document/10800612]) 
+[Speech Emotion Recognition using Fine-Tuned DWFormer: A Study on Track 1 of the IERP Challenge 2024](https://ieeexplore.ieee.org/document/10800612) 
 
 **Honghong Wang**, Xupeng Jia, Jing Deng, Rong Zheng **ISCSLP 2024**
 
