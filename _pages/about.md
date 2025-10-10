@@ -22,7 +22,7 @@ Hello everyone, my name is Honghong Wang. I hold a Master’s degree from the Ke
 My research interests include speech emotion recognition, multimodal emotion recognition, speech classification, and speech synthesis. I have published several papers at prestigious conferences such as ICASSP, INTERSPEECH, and ISCSLP, and have earned top rankings in international emotion recognition competitions, including [MEIJU2025](https://ai-s2-lab.github.io/MEIJU2025-website/) and [IERP2024](http://www.iscslp2024.com/emotionChallenges).
 
 # 🔥 Milestones
-- *2025.10*: &nbsp; 1 paper is accepted by the **ACM Multimedia Asia 2025**. 
+- *2025.10*: &nbsp; 🎉🎉 1 paper is accepted by the **ACM Multimedia Asia 2025**. 
 - *2025.5*: &nbsp;🎉🎉 1 paper is accepted by the **Interspeech 2025**. 
 - *2025.1*: &nbsp;🎉🎉 1 paper is accepted by the **ICASSP 2025**. 
 - *2024.10*: &nbsp;🎉🎉 Ranked **second** place in Track2 Mandarin of MEIJU Challenge.
@@ -30,7 +30,7 @@ My research interests include speech emotion recognition, multimodal emotion rec
 - *2024.5*: &nbsp;🎉🎉 Ranked **first** place in IERP Challenge.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia Asia 2 2025</div><img src='images/acmm asia model.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia Asia 2025</div><img src='images/acmm asia model.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   Personality-Enhanced Multimodal Depression Detection in the Elderly
   
